@@ -33,7 +33,7 @@ const routes = [
     {path:'/params',component:Params},
     {path:'/goods',component:List},
     {path:'/good/add',component:Add},
-    {path:'/reports',component:Report},
+    {path:'/reports',component:Report}
     ]
   },
   {
